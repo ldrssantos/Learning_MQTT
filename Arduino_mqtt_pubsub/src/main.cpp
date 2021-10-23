@@ -28,9 +28,6 @@
 // const char* ssid = "your-ssid";
 // const char* password =  "your-wifi-password"; 
 
-const char* ssid = "claro-braz-2G";
-const char* password =  "@M121BRSANTOS"; 
-
 // External MQTT Broker configuration
 const char* mqtt_broker = "broker.mqttdashboard.com";
 const char* mqtt_username = "unisal";
